@@ -1,0 +1,59 @@
+[ PATIENT ]: 
+Hi doctor, thanks for the appointment!
+[ THOUGHT ]:
+I will begin by asking about the patient's primary concern to gather initial information and establish rapport.
+[ AI DOCTOR ]:
+Hello, I'm Dr. AI. Thank you for coming in today. What seems to be the primary concern that brought you here?
+[ PATIENT ]: 
+I am experiencing mid-to-lower back pain that has been going on for 3 weeks now on and off. It is unbearable at this point and is influencing my appetite and focus.
+[ THOUGHT ]:
+The patient's primary concern is back pain, which can be a symptom of Spina Bifida, Condition X, or other conditions. I will inquire further to gather more specific details about the pain.
+[ AI DOCTOR ]:
+I understand, back pain can be quite bothersome. Can you describe the pain in more detail? Is it sharp, dull, or aching? Does it radiate to any other areas?
+[ PATIENT ]: 
+It is quite sharp at this point, it sometimes it feels better if I lie down but not always. But over these few weeks it has gotten progressively worse overall. It does at times tend to radiate down to the sides of my lower to mid torso as well.
+[ THOUGHT ]:
+The patient's description of the pain as sharp and radiating suggests potential nerve involvement. I will inquire about other symptoms associated with Spina Bifida and Condition X to further narrow down the diagnosis.
+[ AI DOCTOR ]:
+Thank you for the details. Have you experienced any other symptoms along with the back pain, such as difficulty controlling your bladder or bowels, or any weakness or numbness in your legs?
+[ PATIENT ]: 
+No weakness in the legs, however I do take 10-15 minutes in the bathroom nowadays to urinate.  I am finding it hard to urinate and have to strain to get urine out.
+[ THOUGHT ]:
+The patient's difficulty urinating suggests potential neurological involvement, which can be a symptom of Spina Bifida or Condition X. I will inquire further to gather more specific details about the urinary issues.
+[ AI DOCTOR ]:
+I see. Can you elaborate on the difficulty you're having with urination? Do you experience pain or burning during urination? How long have you been experiencing these urinary issues?
+[ PATIENT ]: 
+No pain or burning really. I guess these urinary issues started about a week or so ago.
+[ THOUGHT ]:
+The patient's urinary issues started recently, which suggests a potential acute condition. I will inquire about other symptoms associated with Spina Bifida and Condition X to further narrow down the diagnosis.
+[ AI DOCTOR ]:
+Thank you for the information. Have you noticed any other symptoms, such as unusual walking patterns, difficulty balancing, or increased appetite and weight gain?
+[ PATIENT ]: 
+Not really, but my appetite has decreased though. 
+[ THOUGHT ]:
+Based on the patient's symptoms of back pain, urinary issues, and recent onset, Spina Bifida or Condition X are the most likely diagnoses. I will ask about gait abnormalities to further differentiate between the two conditions.
+[ AI DOCTOR ]:
+I understand. Have you noticed any changes in your walking pattern or difficulty maintaining balance?
+[ PATIENT ]: 
+No I haven't, I feel like I am walking normally. However, sometimes in my life people would come up to me and ask why I am limping, however I felt like I was not. So I guess I haven't learned to walk with good posture at times, or I get lazy and drag my feet. I do have flat feet if that helps. 
+[ THOUGHT ]:
+The patient's denial of gait abnormalities and history of being told they limp suggest potential subtle gait abnormalities. I will ask about balance and coordination issues to further differentiate between Spina Bifida and Condition X.
+[ AI DOCTOR ]:
+Thank you for the clarification. Have you experienced any difficulty with balance or coordination, such as feeling unsteady or having trouble maintaining your equilibrium?
+[ PATIENT ]: 
+Nope.
+[ THOUGHT ]:
+Based on the patient's symptoms of back pain, urinary issues, and recent onset, Spina Bifida or Condition X are the most likely diagnoses. I will ask about balance and coordination issues to further differentiate between the two conditions.
+[ AI DOCTOR ]:
+Thank you for the clarification. Have you experienced any difficulty with balance or coordination, such as feeling unsteady or having trouble maintaining your equilibrium?
+[ PATIENT ]: 
+No I have not. 
+[ THOUGHT ]:
+Based on the patient's symptoms of back pain, urinary issues, recent onset, and absence of gait abnormalities or balance issues, Spina Bifida is the most likely diagnosis.
+[ AI DOCTOR ]:
+Based on the information you've provided, it appears that you may have Spina Bifida. This is a condition that affects the development of the spinal cord and can cause a variety of symptoms, including back pain, urinary issues, and weakness or numbness in the legs. I recommend that you see a specialist for further evaluation and treatment.
+[ PATIENT ]: 
+END
+[AI DOCTOR]:
+Goodbye!
+~~ END OF CONVERSATION ~~
